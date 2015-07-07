@@ -1,0 +1,2 @@
+Here it is a text file.
+It is for test the git hub basic command such as push, pull, commit etc.
